@@ -22,7 +22,8 @@
 }
 
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
-[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after { 
+  color: black;  
   font-family: Flaticon;
   font-style: normal;
   font-weight: normal;
